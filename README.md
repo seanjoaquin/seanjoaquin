@@ -6,12 +6,13 @@
 
 <br />
 
-<!--> About me Section <!-->
 ## Some things you might like:
 - Upcomming Software Developer
 - Place Holder
 - I love writing in JaveScript or C++ and always willing to learn new things
 - Ask me about anything [here](https://github.com/seanjoaquin/seanjoaquin/issues)
+
+<br />
 
 <p align="center">
     <code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
